@@ -1,0 +1,2 @@
+# joc-pisica
+joc pisica
